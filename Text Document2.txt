@@ -1,1 +1,8 @@
 This is second text editor
+In this chapter you will learn about the following properties:
+
+text-decoration-line
+text-decoration-color
+text-decoration-style
+text-decoration-thickness
+text-decoration
